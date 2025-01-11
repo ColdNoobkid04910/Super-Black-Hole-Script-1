@@ -1,6 +1,5 @@
 # Super-Black-Hole-Script-1
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+
 ]]
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
@@ -44,7 +43,7 @@ UICorner.Parent = MainFrame
 local Title = Instance.new("TextLabel")
 Title.Size = UDim2.new(1, 0, 0, 40)
 Title.Position = UDim2.new(0, 0, 0, 0)
-Title.Text = "Super Ring Parts v3"
+Title.Text = "Script Ton"
 Title.TextColor3 = Color3.fromRGB(101, 67, 33) -- Dark brown
 Title.BackgroundColor3 = Color3.fromRGB(222, 184, 135) -- Lighter brown
 Title.Font = Enum.Font.Fondamento -- More elegant font
